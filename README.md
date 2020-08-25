@@ -1,9 +1,9 @@
 # AR-WORLD
 Note:this project files are not able to add in the github because this files are too large.
-• This project was made during hackathon with my team mates.
-• We Built a showcasing app in which we can see the products in ARview.
-• Built ARwatch,Car showcasing application and RealEstate.
-• To customize products in our application with the voice we used Wit.AI
+-> This project was made during hackathon with my team mates.
+-> We Built a showcasing app in which we can see the products in ARview.
+-> Built ARwatch,Car showcasing application and RealEstate.
+-> To customize products in our application with the voice we used Wit.AI
 
 THIS IS HOME PAGE
 
